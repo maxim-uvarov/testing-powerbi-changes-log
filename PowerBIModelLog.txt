@@ -1,0 +1,112 @@
+Name	Attribute	AttributeName	Attribute2	Value	Index	Level	Key
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	attributeHierarchy	ready	13.01	1	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | attributeHierarchy | state
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	attributeHierarchy	2020-09-18T10:31:49.276667	13.02	1	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | attributeHierarchy | modifiedTime
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	attributeHierarchy	2020-09-18T10:37:05.803333	13.03	1	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | attributeHierarchy | refreshedTime
+GDP50	columns	Country	attributeHierarchy	ready	21.04	1	GDP50 | columns | Country | attributeHierarchy | state
+GDP50	columns	Country	attributeHierarchy	2020-09-18T10:31:49.293333	21.05	1	GDP50 | columns | Country | attributeHierarchy | modifiedTime
+GDP50	columns	Country	attributeHierarchy	2020-09-18T10:37:05.806667	21.06	1	GDP50 | columns | Country | attributeHierarchy | refreshedTime
+GDP50	columns	Year	attributeHierarchy	ready	30.12	1	GDP50 | columns | Year | attributeHierarchy | state
+GDP50	columns	Year	attributeHierarchy	2020-09-18T10:31:49.293333	30.13	1	GDP50 | columns | Year | attributeHierarchy | modifiedTime
+GDP50	columns	Year	attributeHierarchy	2020-09-18T10:37:05.806667	30.14	1	GDP50 | columns | Year | attributeHierarchy | refreshedTime
+GDP50	columns	GDP	attributeHierarchy	ready	40.20	1	GDP50 | columns | GDP | attributeHierarchy | state
+GDP50	columns	GDP	attributeHierarchy	2020-09-18T10:31:49.276667	40.21	1	GDP50 | columns | GDP | attributeHierarchy | modifiedTime
+GDP50	columns	GDP	attributeHierarchy	2020-09-18T10:37:05.806667	40.22	1	GDP50 | columns | GDP | attributeHierarchy | refreshedTime
+GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	source	query	47.28	1	GDP50 | partitions | GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc | source | type
+GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	source	SELECT * FROM [GDP50]	47.29	1	GDP50 | partitions | GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc | source | query
+GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	source	0939d1a6-ed45-48f0-8f7b-da9209fe2e4b	47.30	1	GDP50 | partitions | GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc | source | dataSource
+GDP50	columns	Country	annotations	SummarizationSetBy	22.07.01	2	GDP50 | columns | Country | annotations | SummarizationSetBy | name
+GDP50	columns	Country	annotations	Automatic	22.07.02	2	GDP50 | columns | Country | annotations | SummarizationSetBy | value
+GDP50	columns	Country	annotations	2020-09-18T10:31:43.926667	22.07.03	2	GDP50 | columns | Country | annotations | SummarizationSetBy | modifiedTime
+GDP50	columns	Country	annotations	Format	22.08.04	2	GDP50 | columns | Country | annotations | Format | name
+GDP50	columns	Country	annotations	"<Format Format=""Text"" />"	22.08.05	2	GDP50 | columns | Country | annotations | Format | value
+GDP50	columns	Country	annotations	2020-09-18T10:31:43.926667	22.08.06	2	GDP50 | columns | Country | annotations | Format | modifiedTime
+GDP50	columns	Country	annotations	DataTypeAtRefresh	22.09.07	2	GDP50 | columns | Country | annotations | DataTypeAtRefresh | name
+GDP50	columns	Country	annotations	String#####not a type	22.09.08	2	GDP50 | columns | Country | annotations | DataTypeAtRefresh | value
+GDP50	columns	Country	annotations	2020-09-18T10:31:45.136667	22.09.09	2	GDP50 | columns | Country | annotations | DataTypeAtRefresh | modifiedTime
+GDP50	columns	Country	annotations	PBI_NameAtRefresh	22.10.10	2	GDP50 | columns | Country | annotations | PBI_NameAtRefresh | name
+GDP50	columns	Country	annotations	Country	22.10.11	2	GDP50 | columns | Country | annotations | PBI_NameAtRefresh | value
+GDP50	columns	Country	annotations	2020-09-18T10:31:45.136667	22.10.12	2	GDP50 | columns | Country | annotations | PBI_NameAtRefresh | modifiedTime
+GDP50	columns	Country	annotations	PBI_WasHiddenAtRefresh	22.11.13	2	GDP50 | columns | Country | annotations | PBI_WasHiddenAtRefresh | name
+GDP50	columns	Country	annotations	False	22.11.14	2	GDP50 | columns | Country | annotations | PBI_WasHiddenAtRefresh | value
+GDP50	columns	Country	annotations	2020-09-18T10:31:45.136667	22.11.15	2	GDP50 | columns | Country | annotations | PBI_WasHiddenAtRefresh | modifiedTime
+GDP50	columns	Year	annotations	SummarizationSetBy	31.15.16	2	GDP50 | columns | Year | annotations | SummarizationSetBy | name
+GDP50	columns	Year	annotations	Automatic	31.15.17	2	GDP50 | columns | Year | annotations | SummarizationSetBy | value
+GDP50	columns	Year	annotations	2020-09-18T10:31:43.926667	31.15.18	2	GDP50 | columns | Year | annotations | SummarizationSetBy | modifiedTime
+GDP50	columns	Year	annotations	Format	31.16.19	2	GDP50 | columns | Year | annotations | Format | name
+GDP50	columns	Year	annotations	"<Format Format=""Text"" />"	31.16.20	2	GDP50 | columns | Year | annotations | Format | value
+GDP50	columns	Year	annotations	2020-09-18T10:31:43.926667	31.16.21	2	GDP50 | columns | Year | annotations | Format | modifiedTime
+GDP50	columns	Year	annotations	DataTypeAtRefresh	31.17.22	2	GDP50 | columns | Year | annotations | DataTypeAtRefresh | name
+GDP50	columns	Year	annotations	String#####not a type	31.17.23	2	GDP50 | columns | Year | annotations | DataTypeAtRefresh | value
+GDP50	columns	Year	annotations	2020-09-18T10:31:45.136667	31.17.24	2	GDP50 | columns | Year | annotations | DataTypeAtRefresh | modifiedTime
+GDP50	columns	Year	annotations	PBI_NameAtRefresh	31.18.25	2	GDP50 | columns | Year | annotations | PBI_NameAtRefresh | name
+GDP50	columns	Year	annotations	Year	31.18.26	2	GDP50 | columns | Year | annotations | PBI_NameAtRefresh | value
+GDP50	columns	Year	annotations	2020-09-18T10:31:45.136667	31.18.27	2	GDP50 | columns | Year | annotations | PBI_NameAtRefresh | modifiedTime
+GDP50	columns	Year	annotations	PBI_WasHiddenAtRefresh	31.19.28	2	GDP50 | columns | Year | annotations | PBI_WasHiddenAtRefresh | name
+GDP50	columns	Year	annotations	False	31.19.29	2	GDP50 | columns | Year | annotations | PBI_WasHiddenAtRefresh | value
+GDP50	columns	Year	annotations	2020-09-18T10:31:45.136667	31.19.30	2	GDP50 | columns | Year | annotations | PBI_WasHiddenAtRefresh | modifiedTime
+GDP50	columns	GDP	annotations	SummarizationSetBy	41.23.31	2	GDP50 | columns | GDP | annotations | SummarizationSetBy | name
+GDP50	columns	GDP	annotations	Automatic	41.23.32	2	GDP50 | columns | GDP | annotations | SummarizationSetBy | value
+GDP50	columns	GDP	annotations	2020-09-18T10:31:43.926667	41.23.33	2	GDP50 | columns | GDP | annotations | SummarizationSetBy | modifiedTime
+GDP50	columns	GDP	annotations	Format	41.24.34	2	GDP50 | columns | GDP | annotations | Format | name
+GDP50	columns	GDP	annotations	"<Format Format=""NumberWhole"" Accuracy=""0"" />"	41.24.35	2	GDP50 | columns | GDP | annotations | Format | value
+GDP50	columns	GDP	annotations	2020-09-18T10:31:43.926667	41.24.36	2	GDP50 | columns | GDP | annotations | Format | modifiedTime
+GDP50	columns	GDP	annotations	DataTypeAtRefresh	41.25.37	2	GDP50 | columns | GDP | annotations | DataTypeAtRefresh | name
+GDP50	columns	GDP	annotations	Int64#####not a type	41.25.38	2	GDP50 | columns | GDP | annotations | DataTypeAtRefresh | value
+GDP50	columns	GDP	annotations	2020-09-18T10:31:45.136667	41.25.39	2	GDP50 | columns | GDP | annotations | DataTypeAtRefresh | modifiedTime
+GDP50	columns	GDP	annotations	PBI_NameAtRefresh	41.26.40	2	GDP50 | columns | GDP | annotations | PBI_NameAtRefresh | name
+GDP50	columns	GDP	annotations	GDP	41.26.41	2	GDP50 | columns | GDP | annotations | PBI_NameAtRefresh | value
+GDP50	columns	GDP	annotations	2020-09-18T10:31:45.136667	41.26.42	2	GDP50 | columns | GDP | annotations | PBI_NameAtRefresh | modifiedTime
+GDP50	columns	GDP	annotations	PBI_WasHiddenAtRefresh	41.27.43	2	GDP50 | columns | GDP | annotations | PBI_WasHiddenAtRefresh | name
+GDP50	columns	GDP	annotations	False	41.27.44	2	GDP50 | columns | GDP | annotations | PBI_WasHiddenAtRefresh | value
+GDP50	columns	GDP	annotations	2020-09-18T10:31:45.136667	41.27.45	2	GDP50 | columns | GDP | annotations | PBI_WasHiddenAtRefresh | modifiedTime
+GDP50	modifiedTime	null	null	2020-09-18T10:31:43.926667	01	null	GDP50 | modifiedTime
+GDP50	structureModifiedTime	null	null	2020-09-18T10:31:43.926667	02	null	GDP50 | structureModifiedTime
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	type	rowNumber	03	null	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | type
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	name	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	04	null	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | name
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	dataType	int64	05	null	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | dataType
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	isHidden	TRUE	06	null	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | isHidden
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	isUnique	TRUE	07	null	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | isUnique
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	isKey	TRUE	08	null	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | isKey
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	isNullable	FALSE	09	null	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | isNullable
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	modifiedTime	2020-09-18T10:31:43.926667	10	null	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | modifiedTime
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	structureModifiedTime	2020-09-18T10:31:43.926667	11	null	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | structureModifiedTime
+GDP50	columns	RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61	refreshedTime	1699-12-31T00:00:00	12	null	GDP50 | columns | RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61 | refreshedTime
+GDP50	columns	Country	name	Country	14	null	GDP50 | columns | Country | name
+GDP50	columns	Country	dataType	string	15	null	GDP50 | columns | Country | dataType
+GDP50	columns	Country	sourceColumn	Country	16	null	GDP50 | columns | Country | sourceColumn
+GDP50	columns	Country	summarizeBy	none	17	null	GDP50 | columns | Country | summarizeBy
+GDP50	columns	Country	modifiedTime	2020-09-18T10:31:43.926667	18	null	GDP50 | columns | Country | modifiedTime
+GDP50	columns	Country	structureModifiedTime	2020-09-18T10:31:43.926667	19	null	GDP50 | columns | Country | structureModifiedTime
+GDP50	columns	Country	refreshedTime	1699-12-31T00:00:00	20	null	GDP50 | columns | Country | refreshedTime
+GDP50	columns	Year	name	Year	23	null	GDP50 | columns | Year | name
+GDP50	columns	Year	dataType	string	24	null	GDP50 | columns | Year | dataType
+GDP50	columns	Year	sourceColumn	Year	25	null	GDP50 | columns | Year | sourceColumn
+GDP50	columns	Year	summarizeBy	none	26	null	GDP50 | columns | Year | summarizeBy
+GDP50	columns	Year	modifiedTime	2020-09-18T10:31:43.926667	27	null	GDP50 | columns | Year | modifiedTime
+GDP50	columns	Year	structureModifiedTime	2020-09-18T10:31:43.926667	28	null	GDP50 | columns | Year | structureModifiedTime
+GDP50	columns	Year	refreshedTime	1699-12-31T00:00:00	29	null	GDP50 | columns | Year | refreshedTime
+GDP50	columns	GDP	name	GDP	32	null	GDP50 | columns | GDP | name
+GDP50	columns	GDP	dataType	int64	33	null	GDP50 | columns | GDP | dataType
+GDP50	columns	GDP	sourceColumn	GDP	34	null	GDP50 | columns | GDP | sourceColumn
+GDP50	columns	GDP	formatString	0	35	null	GDP50 | columns | GDP | formatString
+GDP50	columns	GDP	summarizeBy	sum	36	null	GDP50 | columns | GDP | summarizeBy
+GDP50	columns	GDP	modifiedTime	2020-09-18T10:31:43.926667	37	null	GDP50 | columns | GDP | modifiedTime
+GDP50	columns	GDP	structureModifiedTime	2020-09-18T10:31:43.926667	38	null	GDP50 | columns | GDP | structureModifiedTime
+GDP50	columns	GDP	refreshedTime	1699-12-31T00:00:00	39	null	GDP50 | columns | GDP | refreshedTime
+GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	name	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	42	null	GDP50 | partitions | GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc | name
+GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	mode	import	43	null	GDP50 | partitions | GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc | mode
+GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	state	ready	44	null	GDP50 | partitions | GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc | state
+GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	modifiedTime	2020-09-18T10:37:05.433333	45	null	GDP50 | partitions | GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc | modifiedTime
+GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	refreshedTime	2020-09-18T10:37:05.796667	46	null	GDP50 | partitions | GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc | refreshedTime
+GDP50	annotations	PBI_Id	name	PBI_Id	48	null	GDP50 | annotations | PBI_Id | name
+GDP50	annotations	PBI_Id	value	b81379fb-5974-42d7-a00d-60001a512fda	49	null	GDP50 | annotations | PBI_Id | value
+GDP50	annotations	PBI_Id	modifiedTime	2020-09-18T10:31:45.136667	50	null	GDP50 | annotations | PBI_Id | modifiedTime
+GDP50	annotations	LinkedQueryName	name	LinkedQueryName	51	null	GDP50 | annotations | LinkedQueryName | name
+GDP50	annotations	LinkedQueryName	value	GDP50	52	null	GDP50 | annotations | LinkedQueryName | value
+GDP50	annotations	LinkedQueryName	modifiedTime	2020-09-18T10:31:45.136667	53	null	GDP50 | annotations | LinkedQueryName | modifiedTime
+GDP50	annotations	PBI_NavigationStepName	name	PBI_NavigationStepName	54	null	GDP50 | annotations | PBI_NavigationStepName | name
+GDP50	annotations	PBI_NavigationStepName	value	Navigation	55	null	GDP50 | annotations | PBI_NavigationStepName | value
+GDP50	annotations	PBI_NavigationStepName	modifiedTime	2020-09-18T10:31:45.136667	56	null	GDP50 | annotations | PBI_NavigationStepName | modifiedTime
+GDP50	annotations	PBI_ResultType	name	PBI_ResultType	57	null	GDP50 | annotations | PBI_ResultType | name
+GDP50	annotations	PBI_ResultType	value	Table	58	null	GDP50 | annotations | PBI_ResultType | value
+GDP50	annotations	PBI_ResultType	modifiedTime	2020-09-18T10:31:45.136667	59	null	GDP50 | annotations | PBI_ResultType | modifiedTime
