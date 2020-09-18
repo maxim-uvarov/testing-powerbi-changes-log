@@ -1,4 +1,8 @@
 Name	Attribute	AttributeName	Value
 GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	query
 GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	SELECT * FROM [GDP50]
-GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	0939d1a6-ed45-48f0-8f7b-da9209fe2e4b
+GDP50	partitions	GDP50-645b8b66-1970-432d-956a-2bd6c4269ddc	05f16880-636d-4384-83a9-25ee109c8f76
+Countries	partitions	Countries-4d5472f8-d7a8-4280-a6ca-1af66a2890b9	calculated
+Countries	partitions	Countries-4d5472f8-d7a8-4280-a6ca-1af66a2890b9	DISTINCT(GDP50[Country])
+GDP50	measures	_GDP	SUM(GDP50[GDP])
+Countries	columns	GDP2019Rank	RANKX(    Countries,    CALCULATE(        [_GDP],        GDP50[Year]=2019    ))
