@@ -1,0 +1,11 @@
+{
+  "name": "Фраза DC",
+  "expression": "DISTINCTCOUNT('ПЗДирект'[Условие показа])",
+  "formatString": "0",
+  "annotations": [
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    }
+  ]
+}

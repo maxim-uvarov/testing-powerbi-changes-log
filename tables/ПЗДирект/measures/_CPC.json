@@ -1,0 +1,11 @@
+{
+  "name": "_CPC",
+  "expression": "DIVIDE([_Расход], [_Клики])",
+  "formatString": "#,0.0",
+  "annotations": [
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberDecimal\" Accuracy=\"1\" ThousandSeparator=\"True\" />"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "_Расход",
+  "expression": "SUM('ПЗДирект'[Расход (руб.)])",
+  "annotations": [
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    }
+  ]
+}

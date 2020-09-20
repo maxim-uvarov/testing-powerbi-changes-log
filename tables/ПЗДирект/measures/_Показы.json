@@ -1,0 +1,11 @@
+{
+  "name": "_Показы",
+  "expression": "sum('ПЗДирект'[Показы])",
+  "formatString": "0",
+  "annotations": [
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    }
+  ]
+}
